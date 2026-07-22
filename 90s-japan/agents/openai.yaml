@@ -1,0 +1,4 @@
+interface:
+  display_name: "90s Japan"
+  short_description: "Give any output a 1990s Japan aesthetic"
+  default_prompt: "Use $90s-japan to reinterpret this output through a 1990s Japan lens."

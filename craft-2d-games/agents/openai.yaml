@@ -1,0 +1,4 @@
+interface:
+  display_name: "2D Game Workbench"
+  short_description: "Build and refine clear, tunable 2D games"
+  default_prompt: "Use $craft-2d-games to implement and verify this 2D game change."

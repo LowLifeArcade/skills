@@ -8,6 +8,13 @@
       "skills": [
         "90s-japan"
       ]
+    },
+    {
+      "title": "Game Development",
+      "description": "Skills for building clear, tunable, visually polished games.",
+      "skills": [
+        "craft-2d-games"
+      ]
     }
   ]
 }

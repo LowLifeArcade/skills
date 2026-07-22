@@ -1,0 +1,13 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Creative Direction",
+      "description": "Skills that give creative work a distinctive visual and cultural point of view.",
+      "skills": [
+        "90s-japan"
+      ]
+    }
+  ]
+}
